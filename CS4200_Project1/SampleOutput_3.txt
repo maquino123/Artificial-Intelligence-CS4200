@@ -1,0 +1,380 @@
+Welcome to the 8-Puzzle Problem!
+Please choose an option:
+1: Randomly generate a puzzle
+2: Input your own 8-puzzle
+3: Exit
+2
+Please enter your custom puzzle, with 0 as the blank tile.
+Position 0: 2
+Position 1: 1
+Position 2: 5
+Position 3: 3
+Position 4: 0
+Position 5: 6
+Position 6: 4
+Position 7: 7
+Position 8: 8
+----------------------------------------------------
+SOLVING USING GRAPH SEARCH WITH HAMMING DISTANCE
+
+
+2   1   5
+3   0   6
+4   7   8
+
+
+2   1   5
+3   6   0
+4   7   8
+
+
+2   1   5
+3   6   8
+4   7   0
+
+
+2   1   5
+3   6   8
+4   0   7
+
+
+2   1   5
+3   0   8
+4   6   7
+
+
+2   0   5
+3   1   8
+4   6   7
+
+
+0   2   5
+3   1   8
+4   6   7
+
+
+3   2   5
+0   1   8
+4   6   7
+
+
+3   2   5
+4   1   8
+0   6   7
+
+
+3   2   5
+4   1   8
+6   0   7
+
+
+3   2   5
+4   1   8
+6   7   0
+
+
+3   2   5
+4   1   0
+6   7   8
+
+
+3   2   0
+4   1   5
+6   7   8
+
+
+3   0   2
+4   1   5
+6   7   8
+
+
+3   1   2
+4   0   5
+6   7   8
+
+
+3   1   2
+0   4   5
+6   7   8
+
+
+0   1   2
+3   4   5
+6   7   8
+Heuristic: Hamming Distance
+Search Cost: 884
+Time Spent on Search: 5967800 ns
+Path Cost: 18
+----------------------------------------------------
+SOLVING USING TREE SEARCH WITH HAMMING DISTANCE
+
+
+2   1   5
+3   0   6
+4   7   8
+
+
+2   1   5
+3   6   0
+4   7   8
+
+
+2   1   5
+3   6   8
+4   7   0
+
+
+2   1   5
+3   6   8
+4   0   7
+
+
+2   1   5
+3   0   8
+4   6   7
+
+
+2   0   5
+3   1   8
+4   6   7
+
+
+0   2   5
+3   1   8
+4   6   7
+
+
+3   2   5
+0   1   8
+4   6   7
+
+
+3   2   5
+4   1   8
+0   6   7
+
+
+3   2   5
+4   1   8
+6   0   7
+
+
+3   2   5
+4   1   8
+6   7   0
+
+
+3   2   5
+4   1   0
+6   7   8
+
+
+3   2   0
+4   1   5
+6   7   8
+
+
+3   0   2
+4   1   5
+6   7   8
+
+
+3   1   2
+4   0   5
+6   7   8
+
+
+3   1   2
+0   4   5
+6   7   8
+
+
+0   1   2
+3   4   5
+6   7   8
+Heuristic: Hamming Distance
+Search Cost: 364422
+Time Spent on Search: 167654300 ns
+Path Cost: 18
+----------------------------------------------------
+SOLVING USING GRAPH SEARCH WITH MANHATTAN DISTANCE
+
+
+2   1   5
+3   0   6
+4   7   8
+
+
+2   1   5
+3   6   0
+4   7   8
+
+
+2   1   5
+3   6   8
+4   7   0
+
+
+2   1   5
+3   6   8
+4   0   7
+
+
+2   1   5
+3   0   8
+4   6   7
+
+
+2   0   5
+3   1   8
+4   6   7
+
+
+0   2   5
+3   1   8
+4   6   7
+
+
+3   2   5
+0   1   8
+4   6   7
+
+
+3   2   5
+4   1   8
+0   6   7
+
+
+3   2   5
+4   1   8
+6   0   7
+
+
+3   2   5
+4   1   8
+6   7   0
+
+
+3   2   5
+4   1   0
+6   7   8
+
+
+3   2   0
+4   1   5
+6   7   8
+
+
+3   0   2
+4   1   5
+6   7   8
+
+
+3   1   2
+4   0   5
+6   7   8
+
+
+3   1   2
+0   4   5
+6   7   8
+
+
+0   1   2
+3   4   5
+6   7   8
+Heuristic: Manhattan Distance
+Search Cost: 1484
+Time Spent on Search: 3699700 ns
+Path Cost: 18
+----------------------------------------------------
+SOLVING USING TREE SEARCH WITH MANHATTAN DISTANCE
+
+
+2   1   5
+3   0   6
+4   7   8
+
+
+2   1   5
+3   6   0
+4   7   8
+
+
+2   1   5
+3   6   8
+4   7   0
+
+
+2   1   5
+3   6   8
+4   0   7
+
+
+2   1   5
+3   0   8
+4   6   7
+
+
+2   0   5
+3   1   8
+4   6   7
+
+
+0   2   5
+3   1   8
+4   6   7
+
+
+3   2   5
+0   1   8
+4   6   7
+
+
+3   2   5
+4   1   8
+0   6   7
+
+
+3   2   5
+4   1   8
+6   0   7
+
+
+3   2   5
+4   1   8
+6   7   0
+
+
+3   2   5
+4   1   0
+6   7   8
+
+
+3   2   0
+4   1   5
+6   7   8
+
+
+3   0   2
+4   1   5
+6   7   8
+
+
+3   1   2
+4   0   5
+6   7   8
+
+
+3   1   2
+0   4   5
+6   7   8
+
+
+0   1   2
+3   4   5
+6   7   8
+Heuristic: Manhattan Distance
+Search Cost: 1700515
+Time Spent on Search: 1316292300 ns
+Path Cost: 18

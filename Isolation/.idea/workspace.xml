@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75bac9b4-d30b-429f-9b45-c9684855cef0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aBMZ6M6m0GHEipS4eHnfG8fgtK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75bac9b4-d30b-429f-9b45-c9684855cef0" name="Default Changelist" comment="" />
+      <created>1586204586209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586204586209</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" width="812" height="680" key="#Project_Structure" timestamp="1586204596389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" width="812" height="680" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1586204596389" />
+    <state x="222" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587499673272">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="222" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1587499673272" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1589230254458">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589230254458" />
+    <state x="65" y="0" key="new project wizard" timestamp="1589230268418">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1589230268418" />
+    <state x="308" y="7" width="672" height="678" key="search.everywhere.popup" timestamp="1587490924437">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="308" y="7" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587490924437" />
+  </component>
+</project>
